@@ -1,6 +1,8 @@
 # Introduction - Brief
 This application was designed to allow a user to search through a [FASTA](https://en.wikipedia.org/wiki/FASTA_format) file as per assessment specifications.
 
+Submitted on the 9th of October 2019.
+
 ## Usage
 
 The program expects to be run with arguments depending on the "level" supplied. There are seven in total with each one having different functionality.
